@@ -1,3 +1,3 @@
 # tenth-app
-store-virine
+store vitrine
 angular and vue
