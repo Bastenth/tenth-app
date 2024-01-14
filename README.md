@@ -1,3 +1,3 @@
-# tenth app
+# tenth
 store vitrine
 vue.js
