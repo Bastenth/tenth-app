@@ -1,3 +1,3 @@
 # tenth
-store vitrine
+store
 # vue
