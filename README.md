@@ -1,2 +1,1 @@
-# tenth
-store
+# tenth store
